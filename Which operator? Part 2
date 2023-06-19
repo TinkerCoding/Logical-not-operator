@@ -1,0 +1,2 @@
+let result = true && true
+console.log(result) // true
