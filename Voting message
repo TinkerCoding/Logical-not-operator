@@ -1,0 +1,11 @@
+/**
+ * @param {number] age
+ */
+function getVotingMessage(age) {
+     if (age >= 18 && age <= 30) {
+          return "You can vote"
+     } else {
+          return "You cannot vota"
+     }
+  }
+  
